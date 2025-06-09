@@ -227,6 +227,29 @@ This Arduino project cycles through **30 vibrant RGB colors** using a single pus
 👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/smb_rgb_simulation.ino)
 
 ---
+## 🌡️ Temperature & Humidity Monitor with LCD
+
+**Description:**  
+This project uses a DHT22 sensor to measure the temperature and humidity, and displays the values on a 16x2 LCD in real-time.
+
+### 🔧 Components:
+- Arduino UNO
+- DHT22 Temperature & Humidity Sensor
+- 16x2 LCD Display
+- 10KΩ Potentiometer (for LCD contrast)
+- Jumper Wires & Breadboard
+
+### 🔍 Features:
+- Real-time temperature and humidity monitoring
+- LCD display output with clear formatting
+- Serial monitor output for debugging
+- Handles sensor read failures gracefully
+
+### 📺 Demo  
+👉 [Watch on YouTube Shorts](https://www.youtube.com/shorts/eQEAwBdGXmo)  
+👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/temperature_humidity_monitor.ino)
+
+---
 
 ## 💡 More From Hobitronics
 
