@@ -114,6 +114,31 @@ This project reads the analog X and Y axis values of a **joystick module** and l
 👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/joystick_led_direction.ino)
 
 ---
+## 🧠 Arduino Simon Says Memory Game
+
+**Description**:  
+A fun and challenging **memory game** built using LEDs, push buttons, and a buzzer! The player must repeat an ever-growing sequence of LED flashes. If you press the wrong button — game over!
+
+### 🔧 Components:
+- Arduino UNO
+- 4 Push Buttons
+- 4 LEDs (any colors)
+- 4 × 220Ω Resistors (for LEDs)
+- 4 × 10kΩ Resistors (for buttons, optional if using `INPUT_PULLUP`)
+- Buzzer
+- Jumper Wires & Breadboard
+
+### 🔍 Features:
+- Random sequence generation up to 100 steps
+- LED + buzzer feedback for each step
+- Detects wrong input and restarts the game
+- Perfect for practicing arrays, logic, and interaction
+
+### 📺 Demo  
+👉 [Watch on YouTube Shorts](https://www.youtube.com/shorts/1zHUwx757jE)  
+👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/memory_game.ino)
+
+---
 
 ## 💡 More From Hobitronics
 
