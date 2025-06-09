@@ -139,6 +139,27 @@ A fun and challenging **memory game** built using LEDs, push buttons, and a buzz
 👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/memory_game.ino)
 
 ---
+## 🎹 Mini Synth Buzzer
+
+**Description**:  
+A simple mini synthesizer using four push buttons to play different musical notes through a buzzer. Press any button to play a tone!
+
+### 🔧 Components:
+- Arduino UNO
+- 4 Push Buttons
+- Buzzer
+- Jumper Wires & Breadboard
+
+### 🔍 Features:
+- Plays 4 distinct notes (C, D, E, G)
+- Uses internal pull-up resistors for buttons
+- Immediate audio feedback with buzzer
+
+### 📺 Demo  
+👉 [Watch on YouTube Shorts](https://www.youtube.com/shorts/TlRXU3seVjU)  
+👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/mini_synth.ino)
+
+---
 
 ## 💡 More From Hobitronics
 
