@@ -160,6 +160,73 @@ A simple mini synthesizer using four push buttons to play different musical note
 👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/mini_synth.ino)
 
 ---
+## 🔄 Rotary Encoder Speed Counter with LCD
+
+**Description**:  
+This project uses a rotary encoder to count rotations and display the count on a 16x2 LCD screen. Press the encoder button to reset the count.
+
+### 🔧 Components:
+- Arduino UNO
+- Rotary Encoder (with CLK, DT, SW pins)
+- 16x2 LCD Display (with LiquidCrystal interface)
+- Jumper Wires & Breadboard
+
+### 🔍 Features:
+- Counts rotary encoder steps (increments/decrements)
+- Displays count live on LCD
+- Reset count via encoder button
+- Uses LiquidCrystal library for easy LCD control
+
+### 📺 Demo  
+👉 [Watch on YouTube Shorts](https://www.youtube.com/shorts/0sYFLn7KKi8)  
+👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/rotary_encoder_lcd.ino)
+
+---
+## 🗑️ Smart Dustbin with Ultrasonic Sensor and Servo
+
+**Description:**  
+This project uses an ultrasonic sensor to detect when a hand is near the dustbin lid, which then automatically opens using a servo motor and closes after a short delay.
+
+### 🔧 Components:
+- Arduino UNO
+- Ultrasonic Sensor (HC-SR04)
+- Servo Motor
+- Jumper Wires & Breadboard
+
+### 🔍 Features:
+- Detects hand within 20 cm using ultrasonic sensor
+- Opens lid automatically with servo motor
+- Closes lid after 2 seconds delay
+- Serial monitor outputs distance readings
+
+### 📺 Demo  
+👉 [Watch on YouTube Shorts](https://www.youtube.com/shorts/_VfbWdnyTq4)  
+👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/smart_dustbin.ino)
+
+---
+## 🎨 RGB LED Color Changer with 30 Stunning Shades
+
+**Description:**  
+This Arduino project cycles through **30 vibrant RGB colors** using a single push button. Each press switches to a new shade by controlling the PWM of red, green, and blue pins.
+
+### 🔧 Components:
+- Arduino UNO
+- RGB LED (Common Cathode)
+- Push Button
+- Resistors
+- Jumper Wires & Breadboard
+
+### 🔍 Features:
+- 30 distinct colors defined in a 2D array
+- Smooth color transition with button press
+- Internal pull-up for button debounce
+- PWM control for accurate color mixing
+
+### 📺 Demo  
+👉 [Watch on YouTube Shorts](https://www.youtube.com/shorts/LKjMsei9AKY)  
+👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/smb_rgb_simulation.ino)
+
+---
 
 ## 💡 More From Hobitronics
 
