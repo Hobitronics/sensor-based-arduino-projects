@@ -4,7 +4,7 @@ Welcome to the Hobitronics mini-project series! This repository contains three e
 
 ---
 
-## 📱 1. RGB LED Touch Color Selector
+## 📱 RGB LED Touch Color Selector
 
 **Description**:  
 This project uses a **metal touch sensor** to cycle through 8 beautiful colors on an RGB LED every time you touch it.
@@ -21,11 +21,12 @@ This project uses a **metal touch sensor** to cycle through 8 beautiful colors o
 - Uses PWM to control LED color mixing
 - Debounced for stable interaction
 
-### 📺 Demo:  
-👉 [Watch on YouTube Shorts](https://www.youtube.com/shorts/Mut5cESZYx8)
+### 📺 Demo  
+👉 [Watch on YouTube Shorts](https://www.youtube.com/shorts/Mut5cESZYx8)  
+👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/touch_sensor_rgb_module.ino)
 
 ---
-## 🌟 2. Touch LED Brightness Controller
+## 🌟 Touch LED Brightness Controller
 
 **Description**:  
 Control the brightness of a single LED using a touch sensor! Each touch cycles through 5 brightness levels from dim to full brightness.
@@ -43,10 +44,11 @@ Control the brightness of a single LED using a touch sensor! Each touch cycles t
 - Simple and intuitive interface
 
 ### 📺 Demo:  
-👉 [Watch on YouTube Shorts](https://www.youtube.com/shorts/b532Vb7Kuwo)
+👉 [Watch on YouTube Shorts](https://www.youtube.com/shorts/b532Vb7Kuwo)  
+👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/touch_sensor_brightness.ino)
 
 ---
-## 🌞 3. LDR-Based Light Detection
+## 🌞 LDR-Based Light Detection
 
 **Description**:  
 Use an LDR (Light Dependent Resistor) module to detect ambient light and automatically turn an LED ON or OFF.
@@ -64,6 +66,7 @@ Use an LDR (Light Dependent Resistor) module to detect ambient light and automat
 
 ### 📺 Demo:  
 👉 [Watch on YouTube Shorts](https://www.youtube.com/shorts/J1jQQLz1Tbc)
+
 👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/ldr_led.ino)
 
 ---
