@@ -92,6 +92,28 @@ This simple yet powerful project uses a **flame sensor** to detect fire and auto
 👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/fire_detector.ino)
 
 ---
+## 🕹️ Joystick-Controlled Multi-LED Direction Indicator
+
+**Description**:  
+This project reads the analog X and Y axis values of a **joystick module** and lights up different LEDs based on direction (up, down, left, right). A fun and interactive way to learn about analog input and conditional logic!
+
+### 🔧 Components:
+- Arduino UNO
+- Joystick Module (2-axis)
+- 4 LEDs (Green, Red, Blue, White)
+- 220Ω Resistors (one per LED)
+- Jumper Wires & Breadboard
+
+### 🔍 Features:
+- Detects direction based on joystick tilt
+- Lights up a corresponding LED
+- Real-time analog value monitoring via Serial Monitor
+
+### 📺 Demo  
+👉 [Watch on YouTube Shorts](https://www.youtube.com/shorts/LLuFA0pNud4)  
+👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/joystick_led_direction.ino)
+
+---
 
 ## 💡 More From Hobitronics
 
