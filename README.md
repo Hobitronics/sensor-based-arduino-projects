@@ -64,6 +64,29 @@ Use an LDR (Light Dependent Resistor) module to detect ambient light and automat
 
 ### 📺 Demo:  
 👉 [Watch on YouTube Shorts](https://www.youtube.com/shorts/J1jQQLz1Tbc)
+👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/ldr_led.ino)
+
+---
+## 🔥 Fire Detection System using Flame Sensor
+
+**Description**:  
+This simple yet powerful project uses a **flame sensor** to detect fire and automatically turns on an LED as an alert. It’s a great beginner-friendly safety project!
+
+### 🔧 Components:
+- Arduino UNO
+- Flame Sensor (Digital Out – D0)
+- LED
+- Resistor (220Ω for LED)
+- Jumper Wires & Breadboard
+
+### 🔍 Features:
+- Detects flame using a digital flame sensor
+- Turns on an LED when fire is detected
+- Real-time flame detection output on Serial Monitor
+
+### 📺 Demo  
+👉 [Watch on YouTube Shorts](https://www.youtube.com/shorts/6YyKSoz93YA)  
+👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/fire_detector.ino)
 
 ---
 
