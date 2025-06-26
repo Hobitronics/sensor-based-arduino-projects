@@ -276,7 +276,6 @@ Activates both LED and buzzer on movement
 
 Serial Monitor displays "Motion Detected!" in real-time
 
-Can be used in homes, labs, or entryways as a basic intruder alert
 ---
 
 📺 Demo
