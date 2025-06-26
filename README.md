@@ -250,12 +250,12 @@ This project uses a DHT22 sensor to measure the temperature and humidity, and di
 👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/temperature_humidity_monitor.ino)
 
 ---
-🚨 PIR Motion Sensor Alarm
-Description:
+##🚨 PIR Motion Sensor Alarm
+###Description:
 This beginner-friendly project uses a PIR motion sensor to detect movement and immediately activate a buzzer and LED. It’s perfect for creating a basic security alert system or a motion-triggered notification setup.
 ---
 
-🔧 Components:
+###🔧 Components:
 Arduino UNO
 
 PIR Motion Sensor
@@ -269,7 +269,7 @@ Resistor (220Ω for LED)
 Jumper Wires & Breadboard
 ---
 
-🔍 Features:
+###🔍 Features:
 Detects motion using infrared radiation
 
 Activates both LED and buzzer on movement
@@ -278,9 +278,10 @@ Serial Monitor displays "Motion Detected!" in real-time
 
 ---
 
-📺 Demo
+###📺 Demo
 👉 [Watch on YouTube Shorts](https://www.youtube.com/shorts/WMv_iixxWio)
 👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/pir_sensor.ino)
+---
 
 ## 💡 More From Hobitronics
 
