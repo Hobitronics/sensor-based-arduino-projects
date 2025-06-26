@@ -254,15 +254,16 @@ This project uses a DHT22 sensor to measure the temperature and humidity, and di
 
 **Description:**  
 This project uses a **PIR motion sensor** to detect movement and instantly trigger a **buzzer** and **LED** as an alert. It’s perfect for building a simple motion-activated security system using Arduino.
+---
 
 ### 🔧 Components:
-
 - Arduino UNO  
 - PIR Motion Sensor  
 - Passive Buzzer  
 - LED  
 - 220Ω Resistor (for LED)  
 - Jumper Wires & Breadboard
+---
 
 ### 🔍 Features:
 
@@ -270,6 +271,7 @@ This project uses a **PIR motion sensor** to detect movement and instantly trigg
 - Activates LED and buzzer when motion is detected  
 - Displays "Motion Detected!" on Serial Monitor in real-time  
 - Ideal for DIY security or smart entry systems
+---
 
 ### 📺 Demo
 
