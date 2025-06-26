@@ -252,6 +252,7 @@ This project uses a DHT22 sensor to measure the temperature and humidity, and di
 ---
 ## 🚨 PIR Motion Sensor Alarm
 **Description**:  
+---
 This beginner-friendly project uses a PIR motion sensor to detect movement and immediately activate a buzzer and LED. It’s perfect for creating a basic security alert system or a motion-triggered notification setup.
 ---
 
