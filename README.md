@@ -279,6 +279,29 @@ This project uses a **PIR motion sensor** to detect movement and instantly trigg
 👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/pir_sensor.ino)
 
 ---
+## 🌧️ Rain Sensor Alarm
+
+**Description**:  
+This project uses a **rain sensor module** to detect rainfall. When it senses rain, it activates a **buzzer** and a **red LED** as an alert system.
+
+### 🔧 Components:
+- Arduino UNO
+- Rain Sensor Module (Digital Output)
+- Buzzer
+- Red LED
+- Jumper Wires & Breadboard
+
+### 🔍 Features:
+- Detects presence of rain using digital output
+- Activates buzzer and red LED when rain is detected
+- Serial monitor displays live status
+- Simple and reliable weather alert system
+
+### 📺 Demo  
+👉 [Watch on YouTube Shorts](https://www.youtube.com/shorts/rain-sensor-video-link)  
+👉 [Find Code on GitHub](https://github.com/Hobitronics/sensor-based-arduino-projects/blob/main/code/rain_detector_sensor.ino)
+
+---
 
 ## 💡 More From Hobitronics
 
